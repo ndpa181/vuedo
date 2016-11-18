@@ -20,7 +20,7 @@ return [
         'partials' => 'themes.clean-blog.partials',
 
         //define partials for easy access
-        'layout' => 'themes.clean-blog.partials.layout',
+        'layout' => 'themes.clean-blog.layouts.default',
         'sidebar' => 'themes.clean-blog.partials.sidebar',
         'footer' => 'themes.clean-blog.partials.footer',
         'scripts' => 'themes.clean-blog.partials.scripts',
